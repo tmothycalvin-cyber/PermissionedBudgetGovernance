@@ -5,13 +5,17 @@ type: software
 authors:
   - family-names: Nimbo
     given-names: T.C.
-    affiliation: "Smart Computing, Blockchain and Data Science Laboratory (LAB SCBD), School of Computing, Telkom University, Bandung, Indonesia"
+    affiliation: "School of Computing, Telkom University, Bandung, Indonesia"
   - family-names: Alamsyah
     given-names: A.
-    affiliation: "Smart Computing, Blockchain and Data Science Laboratory (LAB SCBD), School of Computing, Telkom University, Bandung, Indonesia"
+    affiliation: "School of Computing, Telkom University, Bandung, Indonesia"
   - family-names: Irawan
     given-names: H.
-    affiliation: "Smart Computing, Blockchain and Data Science Laboratory (LAB SCBD), School of Computing, Telkom University, Bandung, Indonesia"
+    affiliation: "School of Computing, Telkom University, Bandung, Indonesia"
+  - family-names: Setiawan
+    given-names: D.
+    affiliation: "School of Computing, Telkom University, Bandung, Indonesia"
+    email: dennysetiawands@telkomuniversity.ac.id
 repository-code: "https://github.com/tmothycalvin-cyber/SmartBudgeting-Blockchain"
 license: MIT
 keywords:
