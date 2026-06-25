@@ -4,7 +4,7 @@
 > A Multi-Sector Information Systems Framework for
 > Stakeholder-Differentiated Accountability"**
 
-*Nimbo, T.C., Alamsyah, A., & Irawan, H.*
+*Nimbo, T.C., Alamsyah, A., Irawan, H., & Setiawan, D.*
 *Telkom University, Bandung, Indonesia*
 
 ---
@@ -144,8 +144,8 @@ transaction reference and deployment details.
 | Conceptualization, Methodology, Software, Formal Analysis, Investigation, Writing (original draft), Visualization | T.C. Nimbo |
 | Writing (review and editing), Supervision, Validation | A. Alamsyah |
 | Writing (review and editing), Supervision | H. Irawan |
+| Investigation, Validation, Writing (review and editing) | D. Setiawan |
 
-*Smart Computing, Blockchain and Data Science Laboratory (LAB SCBD),
 School of Computing, Telkom University, Bandung, Indonesia*
 
 ---
