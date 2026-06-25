@@ -146,7 +146,7 @@ transaction reference and deployment details.
 | Writing (review and editing), Supervision | H. Irawan |
 | Investigation, Validation, Writing (review and editing) | D. Setiawan |
 
-School of Computing, Telkom University, Bandung, Indonesia*
+School of Computing, Telkom University, Bandung, Indonesia
 
 ---
 
