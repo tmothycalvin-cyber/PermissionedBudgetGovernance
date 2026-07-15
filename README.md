@@ -1,4 +1,4 @@
-# SmartBudgeting-Blockchain
+# PermissionedBudgetGovernance
 
 > **"Governing Public Budgets Across Sectors with Permissioned Blockchain:
 > A Multi-Sector Information Systems Framework for
@@ -12,7 +12,7 @@
 ## 📂 Repository Structure
 
 ```
-SmartBudgeting-Blockchain/
+PermissionedBudgetGovernance/
 │
 ├── contracts/
 │   └── SmartBudgeting.sol        ← Solidity smart contract deployed on Sepolia testnet
@@ -107,8 +107,8 @@ Full results available in `results.csv`.
 
 ```bash
 # Clone the repository
-git clone https://github.com/tmothycalvin-cyber/SmartBudgeting-Blockchain.git
-cd SmartBudgeting-Blockchain/simulation
+git clone https://github.com/tmothycalvin-cyber/PermissionedBudgetGovernance.git
+cd PermissionedBudgetGovernance/simulation
 
 # Install dependencies
 npm install
@@ -158,8 +158,8 @@ MIT License. See `LICENSE` for details.
 
 ## 📬 Contact
 
-For questions about the code or simulation data, please open a
-[GitHub issue](https://github.com/tmothycalvin-cyber/SmartBudgeting-Blockchain/issues)
+please open a [GitHub issue]
+(https://github.com/tmothycalvin-cyber/PermissionedBudgetGovernance/issues) 
 or contact the corresponding author indicated in the manuscript.
 
 ---
